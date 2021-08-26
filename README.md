@@ -6,9 +6,9 @@ identify new customers for the company.
 
 
 We approach this project in 2 phasese
-S Use Unsupervised Learning to perform customer segmentation and identify clusters/segments 
+* Use Unsupervised Learning to perform customer segmentation and identify clusters/segments 
 from general population who best match mail-order company's customer base!
-S Use Supervised Learning to identify targets for marketing campaign of the mail-order company 
+* Use Supervised Learning to identify targets for marketing campaign of the mail-order company 
 who could possibly become their customers.
 
 
