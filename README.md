@@ -21,6 +21,7 @@ In order to run the project smoothly, you need to run the code below to download
 ```
 pip install -r requirements.txt
 ```
+PS: This project requires Python 3.x
 
 ## License
 
