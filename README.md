@@ -18,7 +18,9 @@ sales company in Germany"
 ## Installation
 
 In order to run the project smoothly, you need to run the code below to download all the python libraries required at once.
-
+```
+pip install -r requirements.txt
+```
 
 ## License
 
