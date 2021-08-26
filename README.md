@@ -15,6 +15,15 @@ who could possibly become their customers.
 Goal of this project is to predict individuals who are most likely to become customers for a mail-order 
 sales company in Germany"
 
+## File Path
+
+```
+- Arvato Project Workbook.ipynb
+- README.md
+- LISENCE
+- requirements.txt
+```
+
 ## Installation
 
 In order to run the project smoothly, you need to run the code below to download all the python libraries required at once.
@@ -22,6 +31,9 @@ In order to run the project smoothly, you need to run the code below to download
 pip install -r requirements.txt
 ```
 PS: This project requires Python 3.x
+
+## Data
+The data has been provided by Udacity and Arvato Financial Solutions. But data used for this project not publically available. It was provided only to those participating in the "in class" competition.
 
 ## License
 
