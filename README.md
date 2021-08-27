@@ -60,7 +60,7 @@ Following concepts implemented and covered in detail in the notebook:
 
 
 
-## Blog Post 
+## Blog Post And Kaggle Competition
 
 
 
