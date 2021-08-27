@@ -1,5 +1,8 @@
 # Customer-Segmentation-Report-for-Arvato-Financial-Services
 
+
+## Project Motivation
+
 In this project, we are provided with demographic data of customers of a mail-order company in 
 Germany and demographic data of general population of Germany" Using this data, we are required to 
 identify new customers for the company.
@@ -32,8 +35,11 @@ pip install -r requirements.txt
 ```
 PS: This project requires Python 3.x
 
+
 ## Data
+
 The data has been provided by Udacity and Arvato Financial Solutions. But data used for this project not publically available. It was provided only to those participating in the "in class" competition.
+
 
 ## Technical Overview
 
@@ -49,6 +55,14 @@ Following concepts implemented and covered in detail in the notebook:
 * Feature Importance
 * Analysis of identified important features in clusters to find relevance
 * Scoring and submisstion to Kaggle
+
+## Result
+
+
+
+## Blog Post 
+
+
 
 ## License
 
