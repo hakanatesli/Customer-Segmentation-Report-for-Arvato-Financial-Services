@@ -35,6 +35,21 @@ PS: This project requires Python 3.x
 ## Data
 The data has been provided by Udacity and Arvato Financial Solutions. But data used for this project not publically available. It was provided only to those participating in the "in class" competition.
 
+## Technical Overview
+
+Step by step workflow from data exploration, processing to inference is approached in a structured fashion. Because of the large volume of source data, we build preprocessing pipeline to get rid of unnecessary and outlier data and implement Dimensionality Reduction and Clustering to identify segments. Due to the nature of the data (details in notebook), AUC/ROC is used as the evaluation metric for this project. Prediction for test set is to be submitted to Kaggle competition for evaluation.
+
+Following concepts implemented and covered in detail in the notebook:
+
+* Data Exploration & Cleansing
+* Dimensionality Reduction
+* Clustering
+* Supervised Learning
+* Final Model Evaluation
+* Feature Importance
+* Analysis of identified important features in clusters to find relevance
+* Scoring and submisstion to Kaggle
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
