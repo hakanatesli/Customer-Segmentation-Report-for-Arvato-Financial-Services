@@ -35,13 +35,11 @@ pip install -r requirements.txt
 ```
 PS: This project requires Python 3.x
 
-
 ## Data
 
 The data has been provided by Udacity and Arvato Financial Solutions. But data used for this project not publically available. It was provided only to those participating in the "in class" competition.
 
-
-## Technical Overview
+## Technical Overview
 
 Step by step workflow from data exploration, processing to inference is approached in a structured fashion. Because of the large volume of source data, we build preprocessing pipeline to get rid of unnecessary and outlier data and implement Dimensionality Reduction and Clustering to identify segments. Due to the nature of the data (details in notebook), AUC/ROC is used as the evaluation metric for this project. Prediction for test set is to be submitted to Kaggle competition for evaluation.
 
@@ -58,7 +56,9 @@ Following concepts implemented and covered in detail in the notebook:
 
 ## Result
 
-
+* In the first part, data evaluation and data preprocessing were performed. As in every data science project, we had a hard time in the data preprocessing phase. Some of the reasons we struggled: There were too many features and observations, some features were unexplained, some features had less missing data than they should have been.
+* In the unsupervised part, dimensionality reduction was made using PCA to 194 latent features describing 95% of the explained variance. PCA was useful and it was good to see that the first three key components were able to distinguish seven clusters effectively.
+* Finally, the Gradient Boosting Classifier was selected and parameterized to build the supervised model and make predictions on the test dataset on KAGGLE. The resulting performance of the supervised learning algorithm is 78.9%.
 
 ## Blog Post And Kaggle Competition
 
@@ -67,7 +67,6 @@ Following concepts implemented and covered in detail in the notebook:
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
 
 <!-- CONTACT -->
 ## Contact
