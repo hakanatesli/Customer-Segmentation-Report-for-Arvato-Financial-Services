@@ -61,7 +61,8 @@ Following concepts implemented and covered in detail in the notebook:
 * Finally, the Gradient Boosting Classifier was selected and parameterized to build the supervised model and make predictions on the test dataset on KAGGLE. The resulting performance of the supervised learning algorithm is 78.9%.
 
 ## Blog Post And Kaggle Competition
-
+Medium - https://hakanateslii.medium.com/customer-segmentation-for-financial-services-58fbfc417669
+Kaggle - 
 
 
 ## License
