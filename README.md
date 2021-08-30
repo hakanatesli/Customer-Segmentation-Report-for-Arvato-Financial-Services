@@ -62,6 +62,7 @@ Following concepts implemented and covered in detail in the notebook:
 
 ## Blog Post And Kaggle Competition
 Medium - https://hakanateslii.medium.com/customer-segmentation-for-financial-services-58fbfc417669
+
 Kaggle - 
 
 
