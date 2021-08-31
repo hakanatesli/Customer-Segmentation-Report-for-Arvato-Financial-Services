@@ -58,7 +58,7 @@ Following concepts implemented and covered in detail in the notebook:
 
 * In the first part, data evaluation and data preprocessing were performed. As in every data science project, we had a hard time in the data preprocessing phase. Some of the reasons we struggled: There were too many features and observations, some features were unexplained, some features had less missing data than they should have been.
 * In the unsupervised part, dimensionality reduction was made using PCA to 194 latent features describing 95% of the explained variance. PCA was useful and it was good to see that the first three key components were able to distinguish seven clusters effectively.
-* Finally, the Gradient Boosting Classifier was selected and parameterized to build the supervised model and make predictions on the test dataset on KAGGLE. The resulting performance of the supervised learning algorithm is 78.9%.
+* Finally, the Gradient Boosting Classifier was selected and parameterized to build the supervised model and make predictions on the test dataset on KAGGLE. The resulting performance of the supervised learning algorithm is 76.6%.
 
 ## Blog Post And Kaggle Competition
 Medium - https://hakanateslii.medium.com/customer-segmentation-for-financial-services-58fbfc417669
